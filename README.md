@@ -9,4 +9,4 @@ Pedi ayuda en varios lugares de diferentes maneras para estar bien con mis padre
 Puede ver el proceso en esta url:
 https://drive.google.com/drive/folders/1bsV905OgnSoIJXVDonWEM6pR4D6T2fj-?usp=sharing
 
-<img src="qr.png" width="100" height="100">
+<img src="qr.png" width="250" height="250">
